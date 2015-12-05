@@ -6,6 +6,7 @@ If you do not have Node installed already, you can get it from https://nodejs.or
 $ sudo npm install gulp -g
 
 #from within our project folder
+$ npm install
 
 #Build
 $ gulp
